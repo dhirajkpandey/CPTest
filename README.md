@@ -23,5 +23,6 @@ Step 2. Before launching eclipse make sure that jdk version 1.8.0 or above is in
     there may be error because TestNG library is not added into build path, if error is showing for @Test annotation then hover mouse on 
     @Test and click Add TestNG library.
 
-10. To run project right click on project ->Run As->TestNG Test->project will run and report will be generated in test-ouput folder.
-    To view Report click on test-output folder in local path and click on emailable-report.
+10. To run project right click on project ->Run As->TestNG Test->project will run and visa and master type card number will be stored in 
+      OutPutFile.txt file under project root, if data is not visible in the file please open file in eclipse right click and refresh            it, test report will be generated in test-ouput folder under project root
+11. To view test report click on test-output folder in local path where project is stored in file explorer and click on emailable-report.
