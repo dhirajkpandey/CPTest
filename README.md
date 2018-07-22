@@ -2,9 +2,9 @@
 This project was created using java and TestNG
 To run this project following steps are needed:-
 
-	Step 1. Download Eclipse from url-"https://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/oxygenm2"
+Step 1. Download Eclipse from url-"https://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/oxygenm2"
 
-	Step 2. Before launching eclipse make sure that jdk version 1.8.0 or above is installed and java path is set in Environment variables.
+Step 2. Before launching eclipse make sure that jdk version 1.8.0 or above is installed and java path is set in Environment variables.
 
 3. Extract downloaded eclipse and inside the folder click on eclipse icon
 
